@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T20:52:10 CST" name="Default suite" finished-at="2023-01-24T20:52:58 CST" duration-ms="48051">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T20:52:10 CST" name="Default test" finished-at="2023-01-24T20:52:58 CST" duration-ms="48051">
+      <class name="TestNGUsingTestCases.seggregatedAppTest">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:10 CST" name="launchApp" finished-at="2023-01-24T20:52:14 CST" duration-ms="4089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verifyDropdownList()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:14 CST" name="verifyDropdownList" finished-at="2023-01-24T20:52:18 CST" duration-ms="4017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropdownList -->
+        <test-method is-config="true" signature="terminateCurrentSession()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:18 CST" name="terminateCurrentSession" finished-at="2023-01-24T20:52:19 CST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateCurrentSession -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:19 CST" name="launchApp" finished-at="2023-01-24T20:52:22 CST" duration-ms="2835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verifyTitlePage()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:22 CST" name="verifyTitlePage" finished-at="2023-01-24T20:52:22 CST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitlePage -->
+        <test-method is-config="true" signature="terminateCurrentSession()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:22 CST" name="terminateCurrentSession" finished-at="2023-01-24T20:52:23 CST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateCurrentSession -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:23 CST" name="launchApp" finished-at="2023-01-24T20:52:27 CST" duration-ms="4046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="loginApp()[pri:1, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:27 CST" name="loginApp" finished-at="2023-01-24T20:52:39 CST" duration-ms="12685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="terminateCurrentSession()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:39 CST" name="terminateCurrentSession" finished-at="2023-01-24T20:52:40 CST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateCurrentSession -->
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:40 CST" name="launchApp" finished-at="2023-01-24T20:52:43 CST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="flightSearchCalendarBased()[pri:2, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:43 CST" name="flightSearchCalendarBased" finished-at="2023-01-24T20:52:57 CST" duration-ms="13972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearchCalendarBased -->
+        <test-method is-config="true" signature="terminateCurrentSession()[pri:0, instance:TestNGUsingTestCases.seggregatedAppTest@434a63ab]" started-at="2023-01-24T20:52:57 CST" name="terminateCurrentSession" finished-at="2023-01-24T20:52:58 CST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateCurrentSession -->
+      </class> <!-- TestNGUsingTestCases.seggregatedAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
